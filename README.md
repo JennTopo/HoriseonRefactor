@@ -26,9 +26,9 @@ I was helped by 2 of my classmates
 Jenn Butler and Chase Chambers.
 I also did a session with the ASKBCS and they helped me discover that I had too many git folders and I could get the Repo to work due to not being able to know where to go. 
 They were explaining to me about why I made the changes in the CSS files. And HTML.
-I was told that classes need id's and that you cna only use header an dfooter and not make up one. 
+I was told that classes need id's and that you can only use header and footer and not make up one. 
 
 ## License
 
-Here is the website in which I extracted teh information for the License MIT
+Here is the website in which I extracted the information for the License MIT
 https://choosealicense.com/licenses/mit/---
