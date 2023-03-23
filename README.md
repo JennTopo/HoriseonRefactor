@@ -6,7 +6,7 @@
 - How to excute a file with least amount of confusion
 - I learend that sometimes you don't need a class if it is exactly a header or a footer.  Also that if you change some of the <div's to something more specific then just a random section element. 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 ## Installation
 
