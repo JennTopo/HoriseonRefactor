@@ -1,8 +1,6 @@
 # HoriseonRefactor
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - To edit and clean up the semantics in the HTML annd CSS of the Develop file.
 - To learn how to make the code work with more direct instuctions.
 - How to excute a file with least amount of confusion
